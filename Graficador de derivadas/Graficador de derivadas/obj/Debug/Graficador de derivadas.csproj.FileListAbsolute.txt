@@ -1,0 +1,9 @@
+c:\users\luis alonso\documents\visual studio 2015\Projects\Graficador de derivadas\Graficador de derivadas\bin\Debug\Graficador de derivadas.exe.config
+c:\users\luis alonso\documents\visual studio 2015\Projects\Graficador de derivadas\Graficador de derivadas\bin\Debug\Graficador de derivadas.exe
+c:\users\luis alonso\documents\visual studio 2015\Projects\Graficador de derivadas\Graficador de derivadas\bin\Debug\Graficador de derivadas.pdb
+c:\users\luis alonso\documents\visual studio 2015\Projects\Graficador de derivadas\Graficador de derivadas\obj\Debug\Graficador de derivadas.csprojResolveAssemblyReference.cache
+c:\users\luis alonso\documents\visual studio 2015\Projects\Graficador de derivadas\Graficador de derivadas\obj\Debug\Graficador_de_derivadas.Form1.resources
+c:\users\luis alonso\documents\visual studio 2015\Projects\Graficador de derivadas\Graficador de derivadas\obj\Debug\Graficador_de_derivadas.Properties.Resources.resources
+c:\users\luis alonso\documents\visual studio 2015\Projects\Graficador de derivadas\Graficador de derivadas\obj\Debug\Graficador de derivadas.csproj.GenerateResource.Cache
+c:\users\luis alonso\documents\visual studio 2015\Projects\Graficador de derivadas\Graficador de derivadas\obj\Debug\Graficador de derivadas.exe
+c:\users\luis alonso\documents\visual studio 2015\Projects\Graficador de derivadas\Graficador de derivadas\obj\Debug\Graficador de derivadas.pdb
