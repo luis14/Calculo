@@ -7,3 +7,12 @@ c:\users\luis alonso\documents\visual studio 2015\Projects\Graficador de derivad
 c:\users\luis alonso\documents\visual studio 2015\Projects\Graficador de derivadas\Graficador de derivadas\obj\Debug\Graficador de derivadas.csproj.GenerateResource.Cache
 c:\users\luis alonso\documents\visual studio 2015\Projects\Graficador de derivadas\Graficador de derivadas\obj\Debug\Graficador de derivadas.exe
 c:\users\luis alonso\documents\visual studio 2015\Projects\Graficador de derivadas\Graficador de derivadas\obj\Debug\Graficador de derivadas.pdb
+C:\Users\rober\Documents\GitHub\Calculo\Graficador de derivadas\Graficador de derivadas\bin\Debug\Graficador de derivadas.exe.config
+C:\Users\rober\Documents\GitHub\Calculo\Graficador de derivadas\Graficador de derivadas\obj\Debug\Graficador de derivadas.exe
+C:\Users\rober\Documents\GitHub\Calculo\Graficador de derivadas\Graficador de derivadas\obj\Debug\Graficador de derivadas.pdb
+C:\Users\rober\Documents\GitHub\Calculo\Graficador de derivadas\Graficador de derivadas\bin\Debug\Graficador de derivadas.exe
+C:\Users\rober\Documents\GitHub\Calculo\Graficador de derivadas\Graficador de derivadas\bin\Debug\Graficador de derivadas.pdb
+C:\Users\rober\Documents\GitHub\Calculo\Graficador de derivadas\Graficador de derivadas\obj\Debug\Graficador de derivadas.csprojResolveAssemblyReference.cache
+C:\Users\rober\Documents\GitHub\Calculo\Graficador de derivadas\Graficador de derivadas\obj\Debug\Graficador_de_derivadas.Form1.resources
+C:\Users\rober\Documents\GitHub\Calculo\Graficador de derivadas\Graficador de derivadas\obj\Debug\Graficador_de_derivadas.Properties.Resources.resources
+C:\Users\rober\Documents\GitHub\Calculo\Graficador de derivadas\Graficador de derivadas\obj\Debug\Graficador de derivadas.csproj.GenerateResource.Cache
